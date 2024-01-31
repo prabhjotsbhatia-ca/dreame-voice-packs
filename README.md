@@ -11,7 +11,7 @@ Works at least with `L10 Pro`, `Z10 Pro`, `W10`, `D9`, `D10s Pro`.
 
 1. In Valetudo go to "Robot Settings" -> "Misc Settings"
 1. Enter the following information in the "Voice packs" section:
-    - URL: `https://github.com/Findus23/voice_pack_dreame/raw/main/voice_pack.tar.gz`
+    - URL: `https://github.com/prabhjotsbhatia-ca/dreame-voice-packs/raw/main/modded_voice_pack/modified-audio-files.tar.gz`
     - Language Code: `ENUS`
     - Hash: `26f413f713000b8a3d4528ab760bacc4`
     - File size: `1325450` byte
